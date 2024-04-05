@@ -1,9 +1,11 @@
 ### Hi there 👋
-I am an energetic, creative and open-minded employee that who works to learn new things, not just to earn money.
-My career at highly respected companies and organization is testament to my commitment and ability. I have an excellent ability to manage myself and make a good working environment to motivate myself to learn new things and other members of team to perform at their best; coupled with the ability to communicate comfortably and effectively at all levels.
-I am very capable with proven ability to make search and self-study to ensure bringing the newest technology in my filed to stockholders 
-Looking for a new IT specialist, one that will make best use my existing skills and experiences also further my personal development.
-<!--
+A results-oriented and adaptable professional, I possess a Bachelor's degree in Electrical Engineering coupled with a commendable 14-year track record in the Information Technology sector. Serving in leadership roles within distinguished organizations like the UNHCR, BAT, and Snapp, I have honed my expertise as an IT Service Delivery Manager. My proficiency extends beyond technical capabilities, incorporating a keen managerial acumen that ensures seamless IT service delivery on a global scale.
+
+Renowned for my problem-solving aptitude and an open-minded approach, I consistently deliver high-quality outcomes. My commitment revolves around providing user-centric and reliable services and tools, fostering a conducive environment for optimal team performance. Adept at communicating complex IT concepts to individuals from diverse backgrounds, I facilitate enhanced task execution.
+
+In parallel with my technical prowess, I bring substantial project management experience to the table. Demonstrating success in overseeing projects of varying scales and scopes, I have effectively implemented new IT systems, optimized existing infrastructure, and conducted user training on innovative IT tools.
+
+Confident in my ability to contribute significantly to your team, I am actively seeking a challenging opportunity where I can leverage my skills and experience for positive impact. Eager to embrace new technologies and cultivate continuous personal and professional growth in a multicultural setting, I am poised to make meaningful contributions to your organization.<!--
 **MahdiKeshavarz/MahdiKeshavarz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
